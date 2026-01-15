@@ -4,9 +4,10 @@ pydantic
 torch
 numpy
 pandas
-scikit-learn==1.3.2
+scikit-learn
 python-multipart
 matplotlib
+
 
 
 
